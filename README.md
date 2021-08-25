@@ -5,16 +5,16 @@
  2. To achieve highest possible accuracy by using various machine learning classification models.
 
 # Task Performed -
- 1. Importing modules and loading the dataset.
- 2. Checking the Nan values.
- 3. Performing EDA and Preprocessing.
- 4. Handling the Nan values.
- 5. Spliting the data in train (x) and test (y) set.
- 6. Encoding the categorical data.
- 7. Creating the models.
- 8. Performing accuracy check.
- 9. Performing Hyperparameter tuning.
- 10.Performing cross validation.
+1. Importing modules and loading the dataset.
+2. Checking the Nan values.
+3. Performing EDA and Preprocessing.
+4. Handling the Nan values.
+5. Spliting the data in train (x) and test (y) set.
+6. Encoding the categorical data.
+7. Creating the models.
+8. Performing accuracy check.
+9. Performing Hyperparameter tuning.
+10.Performing cross validation.
   
 # Conclusion -
  - The average mean survival rate was 0.3838.    
