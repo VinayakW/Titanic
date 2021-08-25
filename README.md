@@ -28,7 +28,7 @@
    - Age 21-36 (class 2) 
    - Age 19-31 (class 3)
  - The survival rate of female passengers was much more higher than that of male passengers.
-  - From this it can also concluded that rescuing priority was Age and Gender based.
+   - From this it can also concluded that rescuing priority was Age and Gender based.
  - Among all the models the highest accuracy is achieved by using Decision Tree Classifier model i.e 86%.
 
 # Achievement -
