@@ -24,9 +24,9 @@
  - Considering class wise survival the rate of survival of class 1 passengers was the highest.
    - From this it can be concluded that class 1 passengers were given higher priority in rescue operation.
  - Also it can be concluded that class 1 had more senior passengers as compared to other two classes , hence this might also be the reason of giving the class 1 a higher priority while rescuing.
-  - Age 28-50 (class 1)
-  - Age 21-36 (class 2) 
-  - Age 19-31 (class 3)
+   - Age 28-50 (class 1)
+   - Age 21-36 (class 2) 
+   - Age 19-31 (class 3)
  - The survival rate of female passengers was much more higher than that of male passengers.
   - From this it can also concluded that rescuing priority was Age and Gender based.
  - Among all the models the highest accuracy is achieved by using Decision Tree Classifier model i.e 86%.
