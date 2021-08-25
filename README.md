@@ -6,9 +6,6 @@
  - Spliting the data in train (x) and test (y) set.
  - Encoding the categorical data.
  - Creating the models.
-   - Training and testing the data.
-   - Printing the classification and accuracies
- - Creating the model.
  - Performing accuracy check.
  - Performing Hyperparameter tuning.
- - Performing cross validation. 
+ - Performing cross validation.
