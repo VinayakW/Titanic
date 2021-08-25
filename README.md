@@ -15,7 +15,8 @@
 8. Performing accuracy check.
 9. Performing Hyperparameter tuning.
 10.Performing cross validation.
-  
+
+
 # Conclusion -
  - The average mean survival rate was 0.3838.    
  - The average mean fare of ship was approx 32£.
